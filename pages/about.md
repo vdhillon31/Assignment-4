@@ -1,1 +1,3 @@
+# About Me
+
 My name is Vishaldip Dhillon. You can refer to me as Vishal. I am currently a UX Design student at Wilfrid Laurier University. I am passionate about topics like sports, video games and music. I enjoy helping people and UX design allows me to help many. The iterative process and constant learning in UX is the most exciting part to me. I love seeing an idea take shape and develop over time into something special.

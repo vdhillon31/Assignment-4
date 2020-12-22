@@ -1,4 +1,23 @@
 @import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+
+h1, h2, h3, h4, h5{
+    font-family: 'Commissioner', sans-serif;
+}
+
+body{
+    font-family: 'Crimson Text', serif;
+}
+
+body{
+    background-color: #F5F5DC;
+    color: #00008b;
+}
+
+h1, h2, h3, h4, h5{
+    color: #40e0d0;
+}
 
 .navbar-nav.navbar-right:last-child {
     margin-right: 0;
