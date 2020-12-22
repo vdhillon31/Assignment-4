@@ -1,3 +1,3 @@
-# Contact Us
+# Contact Me
 
-We would love to hear from you.
+Please contact me for collaboration or questions!
